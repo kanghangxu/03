@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html>
-    
-     
+<html>     
 <head>
     <meta charset="utf-8"></meta>
     <title>RESUME </title>
-	<style type="text/css">
-	.title{font-weight:bold;font-size:24px}
-	.keyword{color:red}
-	.box{with:100px;height:100px;background-color:green}
-	</style>
+    <style type="text/css">
+    .title{font-weight:bold;font-size:24px}
+    .keyword{color:red}
+    .box{with:100px;height:100px;background-color:green}
+    </style>
 </head>    
 <body>
      <div class="title">--------------------------------------------------------- RESUME------------------------------------------</div>
